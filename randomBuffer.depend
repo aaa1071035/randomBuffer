@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1704938151 source:c:\users\cody\desktop\codes\randombuffer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
